@@ -1,7 +1,8 @@
 # **Sentinela 🏥 \- Sistema de Inteligência Artificial para Gestão Hospitalar**
 
 Trabalho Final de Aprendizado de Máquina (Machine Learning)  
-Aluno: Pedro Davi  
+Aluno: Pedro Davi Hipolito Silva de Lucena
+Professor: Josenalde Barbosa de Oliveira
 Universidade Federal do Rio Grande do Norte (UFRN) \- 2025.1
 
 ## **🎯 Sobre o Projeto**
