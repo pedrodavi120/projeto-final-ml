@@ -56,7 +56,7 @@ Para facilitar a avaliação e visualização, o projeto já foi compilado (npm 
 
 ## **📊 Estrutura de Arquivos**
 
-sentinela-build/  
+dist (app build)/  
 ├── assets/ \# Código Fonte Compilado (Motor IA \+ React)  
 ├── index.html \# Ponto de Entrada (Abra este arquivo)  
 └── vite.svg \# Assets Visuais
