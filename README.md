@@ -1,10 +1,8 @@
 # **Sentinela 🏥 \- Sistema de Inteligência Artificial para Gestão Hospitalar**
 
-Trabalho Final de Aprendizado de Máquina (Machine Learning)  
+Trabalho Final de Aprendizado de Máquina (Machine Learning)
 
 Aluno: Pedro Davi
-
-Professor: Josenalde Barbosa
 
 Universidade Federal do Rio Grande do Norte (UFRN) \- 2025.1
 
@@ -33,10 +31,9 @@ Focado na gestão hospitalar, este módulo segmenta a base de pacientes para ide
 
 * **Algoritmo:** K-Means Clustering.  
 * **Metodologia:** Definição de K=3 via *Elbow Method* (Método do Cotovelo) e validação via *Silhouette Score* (0.74).  
-* **Grupos Identificados:**  
-  1. 🟢 **Baixo Risco:** Jovens saudáveis (Monitoramento anual).  
-  2. 🟠 **Pré-Diabéticos:** Meia-idade com glicemia limítrofe (Foco da prevenção).  
-  3. 🟣 **Crônicos Complexos:** Idosos hipertensos (Home Care).
+* **Grupos Identificados:** 1\. 🟢 **Baixo Risco:** Jovens saudáveis (Monitoramento anual).  
+  2\. 🟠 **Pré-Diabéticos:** Meia-idade com glicemia limítrofe (Foco da prevenção).  
+  3\. 🟣 **Crônicos Complexos:** Idosos hipertensos (Home Care).
 
 ## **🛠️ Arquitetura da Solução**
 
@@ -48,47 +45,29 @@ O projeto segue uma arquitetura moderna de **Edge AI**:
 
 ## **💻 Como Rodar o Projeto Localmente**
 
-### **Pré-requisitos**
+### **Versão Compilada (Pronta para Uso)**
 
-* Node.js (v16 ou superior)  
-* NPM ou Yarn
+Para facilitar a avaliação e visualização, o projeto já foi compilado (npm run build). Não é necessário instalar dependências.
 
-### **Instalação**
+1. Baixe a pasta do projeto.  
+2. Abra o arquivo **index.html** diretamente no seu navegador.
 
-1. Clone o repositório:  
-   git clone \[https://github.com/pedrodavi120/projeto-final-ml.git\](https://github.com/pedrodavi120/projeto-final-ml.git)  
-   cd projeto-final-ml
-
-2. Instale as dependências:  
-   npm install
-
-3. Execute a aplicação:  
-   npm run dev
-
-4. Acesse no navegador:  
-   http://localhost:5173
+*(Nota: Caso os gráficos não carreguem devido a políticas de segurança de arquivos locais do navegador, recomenda-se usar uma extensão simples como "Live Server" ou rodar um servidor HTTP simples na pasta).*
 
 ## **📊 Estrutura de Arquivos**
 
-sentinela/  
-├── src/  
-│   ├── App.jsx           \# Código Principal (Motor de IA e UI)  
-│   ├── main.jsx          \# Ponto de entrada React  
-│   └── index.css         \# Estilos globais (Tailwind)  
-├── notebooks/  
-│   └── sentinela\_ml\_training.ipynb  \# Código de treinamento Python  
-├── public/               \# Assets estáticos  
-├── package.json          \# Dependências do projeto  
-└── README.md             \# Documentação
+sentinela-build/  
+├── assets/ \# Código Fonte Compilado (Motor IA \+ React)  
+├── index.html \# Ponto de Entrada (Abra este arquivo)  
+└── vite.svg \# Assets Visuais
 
 ## **🧪 Resultados e Métricas**
 
-| Métrica | Valor | Descrição |
-| :---- | :---- | :---- |
-| **Recall (Triagem)** | **98%** | Capacidade de detectar pacientes críticos. |
-| **AUC-ROC** | **0.92** | Área sob a curva de operação do receptor. |
-| **Silhouette Score** | **0.74** | Coesão dos clusters de pacientes. |
-| **Latência** | **45ms** | Tempo de resposta do App (Edge AI). |
+| Métrica | Valor | Descrição |  
+| Recall (Triagem) | 98% | Capacidade de detectar pacientes críticos. |  
+| AUC-ROC | 0.92 | Área sob a curva de operação do receptor. |  
+| Silhouette Score | 0.74 | Coesão dos clusters de pacientes. |  
+| Latência | 45ms | Tempo de resposta do App (Edge AI). |
 
 ## **👨‍💻 Autor**
 
