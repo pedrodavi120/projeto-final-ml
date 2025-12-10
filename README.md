@@ -14,6 +14,8 @@ O sistema opera sob uma arquitetura híbrida, onde o treinamento pesado ocorre e
 
 ### **🔗 [CLIQUE AQUI PARA ACESSAR O NOTEBOOK (GOOGLE COLAB)](https://colab.research.google.com/drive/1KaeF__wFFtAcT4lj_4I0a0aFupJza4E6?usp=sharing)**
 
+### **🔗 [CLIQUE AQUI PARA ACESSAR O SLIDE DO CANVA DA APRESENTAÇÃO](https://www.canva.com/design/DAG7DC3xvQQ/-akBT7MfIiSwTqkNOYzwfA/view?utm_content=DAG7DC3xvQQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf608cc34e2)**
+
 ## **🚀 Módulos do Sistema**
 
 ### **1\. Módulo de Triagem Inteligente (Supervisionado)**
