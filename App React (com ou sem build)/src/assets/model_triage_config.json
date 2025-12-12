@@ -1,0 +1,1 @@
+{"thresholds": {"spo2_critical": 92, "bpm_tachycardia": 110, "bpm_bradycardia": 50, "temp_fever": 37.8, "sys_hypotension": 90}, "risk_weights": {"respiratory": 45, "hemodynamic": 40, "systemic": 15}}

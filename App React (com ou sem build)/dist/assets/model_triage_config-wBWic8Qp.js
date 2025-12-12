@@ -1,0 +1,1 @@
+const s={spo2_critical:92,bpm_tachycardia:110,bpm_bradycardia:50,temp_fever:37.8,sys_hypotension:90},t={respiratory:45,hemodynamic:40,systemic:15},e={thresholds:s,risk_weights:t};export{e as default,t as risk_weights,s as thresholds};
