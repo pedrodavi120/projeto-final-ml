@@ -16,7 +16,7 @@ O sistema opera sob uma arquitetura híbrida, onde o treinamento pesado ocorre e
 
 ### **🔗 [CLIQUE AQUI PARA ACESSAR O SLIDE DO CANVA DA APRESENTAÇÃO](https://www.canva.com/design/DAG7DC3xvQQ/-akBT7MfIiSwTqkNOYzwfA/view?utm_content=DAG7DC3xvQQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf608cc34e2)**
 
-### **🔗 [CLIQUE AQUI PARA ACESSAR O VÍDEO DEMO(PARA A APRESENTAÇÃO)](https://youtu.be/u4OnIxyxSmo)**
+### **🔗 [CLIQUE AQUI PARA ACESSAR O VÍDEO DEMONSTRATIVO](https://youtu.be/k4RYJWvcEus)**
 
 ## **🚀 Módulos do Sistema**
 
